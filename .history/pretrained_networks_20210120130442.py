@@ -78,5 +78,3 @@ def load_networks(path_or_gdrive_path):
     return G, D, Gs
 
 #----------------------------------------------------------------------------
-
-# commenting JZ 20/01/2021
